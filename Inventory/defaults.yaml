@@ -1,1 +1,13 @@
 ---
+data:
+    nameservers:
+        - 8.8.8.8
+        - 8.8.4.4
+    snmp:
+        snmp_community: "WORDTECH"
+        snmp_location: "Fate, TX"
+        snmp_contact: "rimran84@gmail.com"
+        snmp_server: "172.16.2.3"
+    ntp:
+        timezone: "GMT -6"
+        ntp_server: "time.google.com"
