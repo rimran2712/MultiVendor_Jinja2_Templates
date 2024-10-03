@@ -10,5 +10,5 @@ juniper_group:
     platform: "junos"
 
 nexus_group:
-    #platform: "nxos"
-    platform: "nxos_ssh"
+    platform: "nxos"
+    #platform: "nxos_ssh"
